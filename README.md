@@ -5,6 +5,10 @@
 [![License: MIT](https://img.shields.io/github/license/jaylansolutions/world-osint)](https://github.com/jaylansolutions/world-osint/blob/main/LICENSE)
 [![TypeScript](https://img.shields.io/badge/TypeScript-100%25-blue)](https://www.typescriptlang.org/)
 
+## 📸 **Live Demo Screenshot**
+
+![DEFCON Dashboard](img/defcon.png)
+
 ## 🚀 **Live Demo**
 **[osint.jaylansolutions.co.ke](https://osint.jaylansolutions.co.ke)**  
 *Geopolitics, military, conflicts, infrastructure with **African emphasis*** 👮‍♂️🌍
